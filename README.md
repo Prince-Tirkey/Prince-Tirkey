@@ -25,8 +25,3 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
-
-
- https://gssoc.girlscript.tech/leaderboard?year=2024&username=<Prince-Tirkey>
-
-
