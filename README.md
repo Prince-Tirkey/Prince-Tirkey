@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
 
+<summary><b>Holopin Badges</b></summary><br />
 <div>
  <a href="https://www.holopin.me/@princetirkey"> <img src="https://www.holopin.me/@princetirkey" alt="Holopin Badge"/> </a>
 </div>
