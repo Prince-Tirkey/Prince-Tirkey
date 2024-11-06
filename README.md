@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  
 <hr/>
 <details>
-<summary><b>Holopin Badges</b></summary><br>
+<summary><b>HOLOPIN Badges 🌱</b></summary><br>
 <div>
  <a href="https://www.holopin.me/@princetirkey"> <img src="https://www.holopin.me/@princetirkey" alt="Holopin Badge"/> </a>
 </div>
