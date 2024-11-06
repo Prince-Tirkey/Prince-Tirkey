@@ -25,11 +25,11 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
-
-<br>
-<describe>
-<summary><b>Holopin Badges</b></summary>
+ 
+<hr/>
+<details>
+<summary><b>Holopin Badges</b></summary><br>
 <div>
  <a href="https://www.holopin.me/@princetirkey"> <img src="https://www.holopin.me/@princetirkey" alt="Holopin Badge"/> </a>
 </div>
-</describe>
+</details>
