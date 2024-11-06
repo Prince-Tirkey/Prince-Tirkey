@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 </div>
 
 <div>
- <a href="https://www.holopin.io/@princetirkey#badges"> <img src="https://www.holopin.io/@princetirkey#badges" alt="Holopin Badge"/> </a>
+ <a href="https://www.holopin.io/@princetirkey#badges"> <img src="https://www.holopin.me/@princetirkey" alt="Holopin Badge"/> </a>
 </div>
